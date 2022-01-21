@@ -30,8 +30,8 @@ Td{font-size:30px;
     </tr>
 
      
-    <td> <img class="Raiden"; Img src="/Images/Raiden Shogun.jpg"> </td>
-    <td><img class="Kazuha"; Img src="/images/Cute.jpg"> </td>
+    <td> <img class="Raiden"; Img src="Raiden Shogun.jpg"> </td>
+    <td><img class="Kazuha"; Img src="Cute.jpg"> </td>
 </tr>
 </img>
 </table>
